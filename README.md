@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukeDitchWalker1
 - 👀 I’m interested in Coding and am one of the coders for the VRC team robot jets (79700A)
-- 🌱 I’m currently learning C#, HTML, JS, and CSS
+- 🌱 I’m currently learning C#, HTML, JS, CSS, and true website localization.
 - 💞️ I’m looking to collaborate on nothing right now but maybe in the future.
 - 📫 You can reach me on discord at lukeditchwalker
 <!---
